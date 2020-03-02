@@ -8,4 +8,4 @@ This is a standalone tool, similar to Yoast SEO for Wordpress. Start typing some
 The tool is written in javascript using jQuery with TinyMCE as a dependency for the text editor. This makes it easy to modify to fit the needs of other projects using any server side programming language.
 
 ## Example
-Download the package with the html file to begin testing this out. The style is minimal, so it should be easy to inject this into any project you have. You can find a live example of this running here.  https://yomotherboard.com/seo-content-analyser/
+Download the package with the html file to begin testing this out. The style is minimal, so it should be easy to inject this into any project you have. You can find a live example of this running here.  [SEO Content Analysis Example](https://yomotherboard.com/seo-content-analyser/)
